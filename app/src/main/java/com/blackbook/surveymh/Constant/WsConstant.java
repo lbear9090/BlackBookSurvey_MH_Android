@@ -9,7 +9,7 @@ package com.blackbook.surveymh.Constant;
 
 public class WsConstant
 {
-    public static final String WS_ROOT = "http://s618129727.onlinehome.us/blackbooksurvey/api/";
+    public static final String WS_ROOT = "http://s618129727.onlinehome.us/blackbooksurveymh/api/";
 
     public static final String WS_All_DATA = WS_ROOT + "Webservice.php?Service=getPredefinedData";
 

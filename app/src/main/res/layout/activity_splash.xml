@@ -10,11 +10,12 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
-        android:text="@string/str_appname"
+        android:layout_centerInParent="true"
         android:layout_marginTop="20dp"
-        android:textSize="@dimen/app_textsize_extra_large"
+        android:gravity="center"
+        android:text="@string/str_appname"
         android:textColor="@color/color_black"
-        android:layout_centerInParent="true"/>
+        android:textSize="@dimen/app_textsize_extra_large" />
 
 
     <TextView

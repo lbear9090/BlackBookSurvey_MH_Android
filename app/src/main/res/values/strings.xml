@@ -1,15 +1,15 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="app_name">Black Book&#8482; Survey</string>
-    <string name="str_appname">Black Book&#8482; Research</string>
+    <string name="app_name">Medical Survey</string>
+    <string name="str_appname">Medical Surgery Supply &amp; Equipment Survey</string>
     <string name="str_copyright">Copyright &#169; 2020. All rights reserved.</string>
-    <string name="str_welcome">Welcome, review your Healthcare industry technology &amp; Services vendor</string>
+    <string name="str_welcome">Welcome, review your Medical Equipment, Supplies and Service Vendor</string>
     <string name="str_key_performance">Key Performance Indicators</string>
     <string name="str_scroing_keys">Scoring Keys</string>
     <string name="str_vendors">Vendors</string>
     <string name="str_editprofile">Edit Profile</string>
     <string name="str_support">Support</string>
     <string name="str_logout">Logout</string>
-    <string name="str_service">What service or technology line are you rating?</string>
+    <string name="str_service">What Medical Equipment, Instrumentation, Supply or Service are you rating?</string>
     <string name="str_select_service">Select Service</string>
     <string name="str_vendor">Who is your vendor?</string>
     <string name="str_select_vendor">Select Vendor</string>
@@ -78,8 +78,8 @@
     <string name="select_role">Please select Role</string>
     <string name="select_rating">Please select Rating</string>
 
-    <string name="facebook_app_id">225687495455053</string>
-    <string name="fb_login_protocol_scheme">fb225687495455053</string>
+    <string name="facebook_app_id">758158201425173</string>
+    <string name="fb_login_protocol_scheme">fb758158201425173</string>
     <string name="str_no_internet">Internet connection is required!</string>
 
     <string name = "linkedin_client_id">78i3tvz9gostz5</string>
