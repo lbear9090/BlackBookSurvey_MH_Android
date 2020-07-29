@@ -82,8 +82,8 @@
     <string name="fb_login_protocol_scheme">fb758158201425173</string>
     <string name="str_no_internet">Internet connection is required!</string>
 
-    <string name = "linkedin_client_id">78i3tvz9gostz5</string>
-    <string name = "linkedin_client_secret">1DI6u1EhB2jUq3HJ</string>
+    <string name = "linkedin_client_id">869zacejh2bxzp</string>
+    <string name = "linkedin_client_secret">Lrlt7tsbB67DZg38</string>
     <string name = "linkedin_redirect_url">http://blackbookmarketresearch.com/linkedin-oauth2/callback</string>
 
     <string name="Please_wait">Please wait&#8230;</string>
@@ -103,8 +103,8 @@
     <string name="terms_date">LAST MODIFIED NOVEMBER 7, 2017</string>
     <string name="terms_description">Any use of this application, our website and/or other services that Black Book provides assumes that you agree to these Terms of Use. These terms also apply to all iOS and Android mobile applications that Black Book provides. If you do not accept these terms, you should cease all usage of our services. We reserve the right to change these Terms of Use in our sole direction at any time. You are advised to check back at this page for any updates.\n\nA user is allowed to have only one account. An email address may only be used by one user. You agree to provide accurate information including email address, phone number, employer or company/organization where the software or services are implemented, position title, and location. Failure to do so may result in the termination of your account.\n\nYou may not use Virtual Private Networks (VPNs), proxies or any other methods to manipulate your IP addresses, locations, device types, or other profile information fraudulently.\n\nYour account will be terminated at any time without notice if it is believed or has been determined that you have violated these Terms of Use or suspicious activity is detected. We also reserve the right to contact you via phone or email to confirm identities.\n\nYou hereby acknowledge that Black Book and its founders and staff are not responsible or liable for any damages, losses or problems caused by or related to our website or mobile applications.</string>
     <string name="OrgID">OrgID</string>
-    <string name="com.twitter.sdk.android.CONSUMER_KEY" tools:ignore="ExtraTranslation">p3synMX4pCPc2Bp7eTqs5wuWG</string>
-    <string name="com.twitter.sdk.android.CONSUMER_SECRET" tools:ignore="ExtraTranslation">ifpaPJZFinCuxstx8GTsr43WH3kYkwxitz6VFbcKZg1NzOH6Qx</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY" tools:ignore="ExtraTranslation">EePRG9I4O4XC6veJivfAN3sHi</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET" tools:ignore="ExtraTranslation">kSkjfdC3sc3FWlzVYkEsYbsLhUa99H2q0Fsg4hsQz3OcrAZwNh</string>
     <string name="login_google">Log in with Google</string>
 
 </resources>

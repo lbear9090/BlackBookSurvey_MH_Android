@@ -1,50 +1,50 @@
 {
   "project_info": {
-    "project_number": "30757229116",
-    "firebase_url": "https://black-book-survey-app.firebaseio.com",
-    "project_id": "black-book-survey-app",
-    "storage_bucket": "black-book-survey-app.appspot.com"
+    "project_number": "688992366945",
+    "firebase_url": "https://medical-survey-app.firebaseio.com",
+    "project_id": "medical-survey-app",
+    "storage_bucket": "medical-survey-app.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:30757229116:android:601cadedf857ba677c6939",
+        "mobilesdk_app_id": "1:688992366945:android:b9f54fc259e7dd1fa1d520",
         "android_client_info": {
-          "package_name": "com.blackbook.survey"
+          "package_name": "com.blackbook.surveymh"
         }
       },
       "oauth_client": [
         {
-          "client_id": "30757229116-otvdqvqhkn94san0ov8h9o9tvc1hk4n7.apps.googleusercontent.com",
+          "client_id": "688992366945-ubknv6hbl0a62g759mulg3ob7o70gih5.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.blackbook.survey",
+            "package_name": "com.blackbook.surveymh",
             "certificate_hash": "3d183aeeb389fd2764bd2044282aefe786174659"
           }
         },
         {
-          "client_id": "30757229116-hrec80gnmdj9osq9n1hhnhh5325h9uto.apps.googleusercontent.com",
+          "client_id": "688992366945-5116prkio5nr7pvguthbhj9njkthgjs6.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCaHostNnCXy--DI-fOgfYKIJrAKtEsLWI"
+          "current_key": "AIzaSyBeDOlXIPsQvgaqAvFHa6WSKrXMQfA1O40"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "30757229116-hrec80gnmdj9osq9n1hhnhh5325h9uto.apps.googleusercontent.com",
+              "client_id": "688992366945-5116prkio5nr7pvguthbhj9njkthgjs6.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "30757229116-ftitsek7m3rgmepssus0u2okrg1i7mja.apps.googleusercontent.com",
+              "client_id": "688992366945-4nde42cphb4045u9m81i2d0vhg03lqc0.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.harbordev.surveyapp",
-                "app_store_id": "1129233940"
+                "bundle_id": "com.blackbook.surveyappmh",
+                "app_store_id": "1524518515"
               }
             }
           ]
